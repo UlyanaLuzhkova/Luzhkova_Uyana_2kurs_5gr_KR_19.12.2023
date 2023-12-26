@@ -1,0 +1,40 @@
+Группа A:
+Atletico_M 0 0 0 0 0 0
+Juventus 0 0 0 0 0 0
+Olympiacos 0 0 0 0 0 0
+Malmo 0 0 0 0 0 0
+Группа B:
+Real_Madrid 0 0 0 0 0 0
+Basel 0 0 0 0 0 0
+Liverpool 0 0 0 0 0 0
+Ludogorets 0 0 0 0 0 0
+Группа C:
+Monaco 0 0 0 0 0 0
+Bayer_Leverkusen 0 0 0 0 0 0
+Zenit 0 0 0 0 0 0
+Benfica 0 0 0 0 0 0
+Группа D:
+Borussia_D 0 0 0 0 0 0
+Arsenal 0 0 0 0 0 0
+Anderlecht 0 0 0 0 0 0
+Galatasaray 0 0 0 0 0 0
+Группа E:
+Bayern 0 0 0 0 0 0
+Manchester_City 0 0 0 0 0 0
+Roma 0 0 0 0 0 0
+CSKA_M 0 0 0 0 0 0
+Группа F:
+Barcelona 0 0 0 0 0 0
+PSG 0 0 0 0 0 0
+Ajax 0 0 0 0 0 0
+APOEL 0 0 0 0 0 0
+Группа G:
+Chelsea 0 0 0 0 0 0
+Schalke_04 0 0 0 0 0 0
+Sporting_L 0 0 0 0 0 0
+Maribor 0 0 0 0 0 0
+Группа H:
+Port 0 0 0 0 0 0
+Shakhtar_Dn 0 0 0 0 0 0
+Athletic_B 0 0 0 0 0 0
+BATE 0 0 0 0 0 0
